@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    width:100%;
+    height:100%;
+    }
+    .cabecera{
+        width:100%;
+        height:20%;
+        background:#9b9c9b;
+        text-align: center;
+        font-size: 25px;
+        padding-top: 20px;
+    }
+     .links{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+    }
+    .section{
+        width:100%;
+        height:72%;
+        background:#dcddcf;
+        margin: auto;
+        text-align: center;
+    }
+    .footer{
+        width:100%;
+        height:8%;
+        background:#9b9c9b;
+        margin: auto;
+        text-align: center;
+        font-size: 25px;
+    }
+   
