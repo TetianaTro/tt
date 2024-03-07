@@ -5,30 +5,36 @@
     }
     .cabecera{
         width:100%;
-        height:20%;
+        height:8%;
         background:#9b9c9b;
         text-align: center;
-        font-size: 25px;
+        font-size: 10px;
         padding-top: 20px;
+        position: fixed;
     }
      .links{
         text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 30px;
+        background:#9b9c9b
     }
     .section{
         width:100%;
-        height:72%;
+        height:80%;
         background:#dcddcf;
         margin: auto;
         text-align: center;
     }
     .footer{
+        padding-top: 15px;
         width:100%;
-        height:8%;
+        height:10%;
         background:#9b9c9b;
         margin: auto;
         text-align: center;
         font-size: 25px;
     }
-   
+    .headline{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+    }
